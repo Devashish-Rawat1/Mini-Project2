@@ -35,7 +35,7 @@ p {
 }
 .btn-container {
     display: flex;
-    /* justify-content: center; */
+    /* flex-grow: 1; */
     background-color: #3E5879;
     color: white;
 }
@@ -73,7 +73,7 @@ p {
  
 .game {
     display: flex;
-    margin-left: 23%;
+    margin-left: 15%;
 }
 .inst {
     width: 320px;
