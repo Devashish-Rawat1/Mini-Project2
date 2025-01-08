@@ -101,5 +101,5 @@ function reset(score) {
 }
 
 function updateScore(hscore) {
-    h2new.innerText = `Higest Score : ${higthestScore}`;
+    h2new.innerText = `Highest Score : ${higthestScore}`;
 }
